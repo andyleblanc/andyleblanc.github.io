@@ -28,7 +28,7 @@ twitter_username: bearhorseicorn
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
