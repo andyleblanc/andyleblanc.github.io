@@ -1,18 +1,39 @@
 ---
 layout: page
-title: About
+title: about le blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Andy.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I used to do things, but then I had a couple of babies, so mostly I just try to keep the babies alive and try to keep myself awake.
+
+Here are some videos I made with my friends, when we were young, and could make things.
+
+They’re not… amazing.
+
+[Raygun Revival Teaser Trailer][]
+
+[Harper’s Hearth][]
+
+[Meouloaf][]
+
+[Bleeder][]
+
+[Rock Video][]
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+A long time ago, I wrote some short stories.
+
+[Scientists][]
+
+[Dirty Laundry][]
+
+[Event Log][] – This one is just about a guy making love to a robot prostitute, from the perspective of the robot’s system log.  People didn’t like it, so I posted these pictures in the comments section, presented here as an animated gif:
+
+![kitty3](assets/kitty3.gif)
+
+I think they liked the picture better.
