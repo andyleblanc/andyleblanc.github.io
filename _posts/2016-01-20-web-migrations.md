@@ -10,7 +10,7 @@ image: /wp-content/uploads/2016/01/steven.jpg
 categories:
   - Critical Oddness
 ---
-Steven ![Steven](/assets/images/steven.jpg) (this is steven, painting credit: Sean Bigham)</span> told me a couple of weeks ago that he&#8217;d be taking his web host down as of today.  It was short notice, but I have no right to complain: he&#8217;s been hosting my webstuffs free for a decade at least.  I&#8217;m pretty sure he&#8217;s paid for and renewed domains for me in the past, too.  He is a good chap.
+Steven !(/assets/images/steven.jpg) (this is steven, painting credit: Sean Bigham) told me a couple of weeks ago that he&#8217;d be taking his web host down as of today.  It was short notice, but I have no right to complain: he&#8217;s been hosting my webstuffs free for a decade at least.  I&#8217;m pretty sure he&#8217;s paid for and renewed domains for me in the past, too.  He is a good chap.
 
 A good chap who has left me to fend for myself.
 
