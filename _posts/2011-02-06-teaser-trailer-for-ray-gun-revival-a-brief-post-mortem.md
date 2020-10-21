@@ -1,6 +1,7 @@
 ---
 id: 747
 title: 'Teaser Trailer for Ray Gun Revival &#8212; A brief post mortem'
+short_title: 'Raygun Revival'
 date: 2011-02-06T02:46:55-08:00
 author: andyleblanc
 layout: post

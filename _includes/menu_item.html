@@ -1,12 +1,6 @@
 <ul style="list-style-type:none">
   {% for item in include.collection %}
-
-    {% if item.bodytext == true %}
-    <li class="bodytext">
-    {% else %}
     <li>
-    {% endif %}
-
     {% if item.heading == true %}
     <h2>
     {% endif %}
@@ -23,6 +17,10 @@
     <br />
     {% endif %}
     </li>
+
+    {% if item.bodytext != false %}
+    <li class="bodytext">{{item.bodytext}}<br /><br /></li>
+    {% endif %}
 
     {% if item.post_list == true %}
       {% include post_list.html %}

@@ -60,6 +60,7 @@ li.bodytext {
   line-height: 1.0;
   margin: 0;
   min-height: 100%;
+  margin-left:2rem;
 }
 
 *:target { background-color: yellow; }
@@ -108,4 +109,8 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+a:link {
+  text-decoration: none;
 }
