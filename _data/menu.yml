@@ -4,19 +4,23 @@
 entries:
 
   - title: about
+    heading: true
     post_list: false
     url: /about/
     entries: false
 
   - title: projects
+    heading: true
     post_list_projects: true
     url: false
     entries: false
 
-  - title: blog
+  - title: le blog ancien
     url: false
+    heading: true
     entries:
       - title: almost all of these blog posts are from a now-defunct blog I used to share with a friend of mine until he kicked me off it, the bastard
+        bodytext: true
         url: false
         entries: false
       - title:
@@ -25,4 +29,5 @@ entries:
         entries: false
 
   - title: rss
+    heading: true
     url: feed.xml

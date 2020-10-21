@@ -1,10 +1,26 @@
 <ul style="list-style-type:none">
   {% for item in include.collection %}
+
+    {% if item.bodytext == true %}
+    <li class="bodytext">
+    {% else %}
     <li>
+    {% endif %}
+
+    {% if item.heading == true %}
+    <h2>
+    {% endif %}
     {% if item.url != false %}
       <a href="{{ item.url }}">{{ item.title }}</a>
     {% else %}
       {{ item.title }}
+    {% endif %}
+    {% if item.heading == true %}
+    </h2>
+    {% endif %}
+    {% if item.bodytext == true %}
+    <br />
+    <br />
     {% endif %}
     </li>
 
