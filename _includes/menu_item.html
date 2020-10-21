@@ -1,8 +1,8 @@
-<ul style="list-style-type:none">
+<ul style="list-style-type:none;">
   {% for item in include.collection %}
     <li>
     {% if item.heading == true %}
-    <h2>
+    <h2 style="margin-bottom:1rem;">
     {% endif %}
     {% if item.url != false %}
       <a href="{{ item.url }}">{{ item.title }}</a>
@@ -24,6 +24,10 @@
 
     {% if item.post_list == true %}
       {% include post_list.html %}
+    {% endif %}
+
+    {% if item.post_list_ancien == true %}
+      {% include post_list_ancien.html %}
     {% endif %}
 
     {% if item.post_list_featured == true %}

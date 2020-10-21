@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/?p=538
 permalink: /2010/04/13/buttersteak-mignon/
 categories:
   - Critical Oddness
+  - ancien
 ---
 There&#8217;s something of a meme going around these here internets, regarding the cooking of delicious butter steaks. I usually hate all internet meme business, but unlike most, this one is fucking delicious.
 

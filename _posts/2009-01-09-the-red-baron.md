@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/?p=229
 permalink: /2009/01/09/the-red-baron/
 categories:
   - Critical Oddness
+  - ancien
 ---
 [My friend Jordan](http://www.jordanlapp.com/withoutreallytrying/the-red-baron-ploy/) recently made a post in which he invents a term, and then lays claim to it. The post is relatively small, and doesn&#8217;t really serve any purpose other than marking the time and date and claimed word.
 
@@ -15,9 +16,9 @@ It is, in short, a kind of linguistic submarine patent.
 
 That said, the term isn&#8217;t that bad. He calls it the Red Baron Ploy, the use of a particularly standout evil villain to become the defining face of his otherwise vaguely defined countrymen (or group members of some other kind). Red Baron Ploy doesn&#8217;t sound very good, however&#8230; too many words. And in being so specifically about a black and white good/evil dichotomy, its utility is somewhat muted.
 
-Instead, the term ought to be just &#8220;The Red Baron&#8221;. The Red Baron is often the villain, or at the very least, the antagonist, but his defining characteristic is his group membership. 
+Instead, the term ought to be just &#8220;The Red Baron&#8221;. The Red Baron is often the villain, or at the very least, the antagonist, but his defining characteristic is his group membership.
 
-A Red Baron can never work alone. The Red Baron is the representative, the face, the avatar, of a much larger group which the author does not characterize more widely (either because the group is so large as to make that unwieldly, or the author is simply uninterested). 
+A Red Baron can never work alone. The Red Baron is the representative, the face, the avatar, of a much larger group which the author does not characterize more widely (either because the group is so large as to make that unwieldly, or the author is simply uninterested).
 
 The Red Baron is often flamboyant. Is often Jeremy Irons in Dungeons and Dragons o&#8217;er the top. It is in his nature specifically because he must become the character representation of tens if not thousands of other bodies (whom our protagonist perhaps slaughters by the dozens [if there are more than tens]). He must think for thousands. He must move for thousands. He must emote for thousands.
 
@@ -29,7 +30,7 @@ Don&#8217;t watch Death Race, though. It really sucks.
 
 Look at the costume similarities between Darth Vader and the Storm Trooper. Darth Vader is a storm trooper in a black uniform and a cape. Also, with magic powers. Darth Vader is a Red Baron, effectively filling the characterization gap of a hundred easily slaughtered storm trooper infantry.
 
-But it doesn&#8217;t stop at antogonism and villainy. Mel Gibson&#8217;s William Wallace very nearly acts as a Red Baron for all of the Scots in Braveheart, at least the bold, fighting kind. 
+But it doesn&#8217;t stop at antogonism and villainy. Mel Gibson&#8217;s William Wallace very nearly acts as a Red Baron for all of the Scots in Braveheart, at least the bold, fighting kind.
 
 Where the author chooses not to, for reasons good or evil, represent a large group as a diverse set of individuals, but instead, [Superions](http://en.wikipedia.org/wiki/Superion) them into a single, usually flamboyant representation, he has made a Red Baron.
 

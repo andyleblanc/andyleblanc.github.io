@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/?p=239
 permalink: /2009/02/20/toothless/
 categories:
   - Critical Oddness
+  - ancien
 ---
 For the sake of grossness and nothing else&#8230;
 

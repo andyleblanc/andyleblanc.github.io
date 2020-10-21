@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/hackedunhacked/
 permalink: /2009/11/04/hackedunhacked/
 categories:
   - Critical Oddness
+  - ancien
 tags:
   - blog
   - downtime

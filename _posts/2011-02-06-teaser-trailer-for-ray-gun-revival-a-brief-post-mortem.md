@@ -10,6 +10,7 @@ permalink: /2011/02/06/teaser-trailer-for-ray-gun-revival-a-brief-post-mortem/
 categories:
   - Film
   - projects
+  - ancien
 ---
 Every Day Publishing launched its new(ly acquired) online magazine, [Ray Gun Revival](http://www.raygunrevival.com) on February 1st. I had, sometime in November, I think, offered to produce a teaser trailer to be released in advance of the magazine&#8217;s unveiling.
 

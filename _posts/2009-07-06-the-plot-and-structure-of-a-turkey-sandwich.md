@@ -8,12 +8,13 @@ guid: http://www.criticaloddness.com/blog/?p=391
 permalink: /2009/07/06/the-plot-and-structure-of-a-turkey-sandwich/
 categories:
   - Critical Oddness
+  - ancien
 ---
 You are stuck. Probably, there are still images vivid in your mind, but you can no longer link them together. They are no longer a part of any story. In your desperation, you start, for a moment, to write about a man sitting in front of a typing device similar to your own, suffering from a lack of productivity similar to your own. You are not the first to attempt this. You will not be the last. You have been told a thousand times to write what you know, and, at this very moment, not being able to write is exactly all that you know.
 
 Wait. Feel yourself out, get a sense of your body, your environment, your feelings. Surely, you must know at least one more thing, you must know something beyond this most tired of cliches.
 
-Your stomach growls. 
+Your stomach growls.
 
 You know that you are hungry.
 
@@ -33,7 +34,7 @@ You take your half-made sandwich carefully in hand, and in your trousers you stu
 
 You walk for hours, over boulders the size of houses, and through hollow logs twice size of office buildings. Something had better force you to act, to make a decision; something must challenge you. You arrive at a river.
 
-The river is as wide as an eight-lane highway, and roars savagely. You kick off your shoes and roll up the cuffs of your trousers. You raise the gestating turkey sandwich high above your head, and step into the water. You are barely ankle deep when the water&#8217;s tug begins to affect your balance. You are not more than an eighth of the way through, and the water is above your belly button. You strain on the tips of your toes to keep the sandwich as far away from potential sogginess as possible. This, a mistake. The water drags you off of your toes and then under. Your body tumbles and you thrash your arms wildly. 
+The river is as wide as an eight-lane highway, and roars savagely. You kick off your shoes and roll up the cuffs of your trousers. You raise the gestating turkey sandwich high above your head, and step into the water. You are barely ankle deep when the water&#8217;s tug begins to affect your balance. You are not more than an eighth of the way through, and the water is above your belly button. You strain on the tips of your toes to keep the sandwich as far away from potential sogginess as possible. This, a mistake. The water drags you off of your toes and then under. Your body tumbles and you thrash your arms wildly.
 
 You are sitting on the riverbed, opposite where you entered, if a little downstream. Your clothes are soaked, your hair is soaked. The soaked sandwich disintegrates in your hand.
 
@@ -55,6 +56,6 @@ Your finger squeezes the trigger. And then, you are overwhelmed by the turkey&#8
 
 Its tail fanned like a peacock, it&#8217;s feathers striped like a bold tiger, it&#8217;s face decorated with the wild colours of a gaelic warrior, all in the subdued tones of the puritans. The turkey is the most regal of all galliformes. A pilgrim king.
 
-The glock lands lands among the weeds, unfired. 
+The glock lands lands among the weeds, unfired.
 
 You fall to your knees and weep.

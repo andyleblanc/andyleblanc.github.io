@@ -9,6 +9,7 @@ permalink: /2016/01/20/web-migrations/
 image: /wp-content/uploads/2016/01/steven.jpg
 categories:
   - Critical Oddness
+  - ancien
 ---
 ![Steven](/assets/images/steven.jpg) Steven (see above, painting credit: Sean Bigham) told me a couple of weeks ago that he&#8217;d be taking his web host down as of today.  It was short notice, but I have no right to complain: he&#8217;s been hosting my webstuffs free for a decade at least.  I&#8217;m pretty sure he&#8217;s paid for and renewed domains for me in the past, too.  He is a good chap.
 

@@ -12,6 +12,7 @@ categories:
   - rant
   - Red Camera
   - Review
+  - ancien
 ---
 There&#8217;s a brief scene in the terrible new Nicholas Cage/Alex Proyas special effects thriller where Nicholas Cage, reputed astrophysicist, is teaching a class at MIT. It isn&#8217;t really clear what this class is&#8230; whether they&#8217;re undergraduate or graduate students. There are space-y decorations around the room, so I guess it could be assumed that it&#8217;s some kind of astronomy or astrophysics class. He says, more or less, that he&#8217;s going to introduce them to some ideas, that might help get the ball rolling for their term papers.
 
@@ -45,8 +46,8 @@ Meanwhile, there&#8217;s a chalkboard behind him with some hardcore space Calcul
 
 <p>
   That means, go to a local University or Community Fucking College, and tell them you&#8217;re a fucking screenwriter or film director or actor, and ask to sit through one or five of their classes on X (here, Astrophysics&#8230; I think).<br />
-  
-  
+
+
   <PRE></p>
 
 
@@ -88,7 +89,7 @@ Meanwhile, there&#8217;s a chalkboard behind him with some hardcore space Calcul
 
 <p>
   <!--more-->
-  
+
   <br />
   It&#8217;s aliens.  Aliens have known everything all along.  The creepy whispering people that gave kids dates and times for disasters and eventually the end of the world: Aliens.
 </p>

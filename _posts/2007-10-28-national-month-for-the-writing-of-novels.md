@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/national-month-for-the-writing-of-nove
 permalink: /2007/10/28/national-month-for-the-writing-of-novels/
 categories:
   - Critical Oddness
+  - ancien
 ---
 I think I&#8217;m going to commit to this NaNoWriMo thing for November. Really, I&#8217;ve always had a problem with producing large volumes of material, and a pointless challenge is as good a way as any for me to confront and hopeably overcome that particular problem.
 
@@ -15,6 +16,6 @@ Really, the main thing in upping my productivity to the required 1,600 words per
 
 I&#8217;ve been practicing, by sleeping less. For the last week, I&#8217;ve been getting up at 6:30, when I generally wouldn&#8217;t need to be up for work before 8:15 or so. This is me getting ready for the big race. I&#8217;m already feeling it, after barely a week. I am tired all of the time. I was expecting this to subside; in fact, the whole reason I started getting up early last week, was to make sure that I was adjusted to my new sleep schedule in time for the big game. Instead, I suspect that I will spend the month of November in a zombie state, shuffling from place to place, bashing out voluminous trash on my keyboard. I&#8217;ll get more sleep in December, when I&#8217;m editing. The real trick with a first draft of anything, really, is to finish it.
 
-For those who say you can&#8217;t polish a turd, remember this: 
+For those who say you can&#8217;t polish a turd, remember this:
 
 the trick is not to polish a turd, but to cover it in foil and paint it gold.

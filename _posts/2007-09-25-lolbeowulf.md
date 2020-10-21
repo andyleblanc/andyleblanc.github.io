@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/lolbeowulf/
 permalink: /2007/09/25/lolbeowulf/
 categories:
   - Critical Oddness
+  - ancien
 ---
 One of my favourite things to do, is take a new picture that Bigham has sent me for constructive criticism, add something to it in PhotoShop, and send it back as a magnificent improvement.
 

@@ -21,10 +21,21 @@ entries:
     bodytext: almost all of these blog posts are from a now-defunct blog I used to share with a friend of mine until he kicked me off it, the bastard
     url: false
     heading: true
-    post_list: true
+    post_list_ancien: true
     entries: false
 
-  - title: rss
+  - title: socialism
+    url: false
     heading: true
-    url: feed.xml
     bodytext: false
+    entries:
+      - title: rss
+        heading: false
+        url: feed.xml
+        bodytext: false
+        post_list: false
+      - title: twitter
+        heading: false
+        url: https://twitter.com/bearhorseicorn
+        bodytext: false
+        post_list: false

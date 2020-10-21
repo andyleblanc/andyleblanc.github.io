@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/?p=232
 permalink: /2009/01/21/no-nonono-no-no-no-no/
 categories:
   - Critical Oddness
+  - ancien
 ---
 Here&#8217;s something I hate. Sentences ended with &#8220;,no?&#8221;. It occurs mostly in writing, mostly in e-writing, on the stupid fucking internet.
 
@@ -19,7 +20,7 @@ Here&#8217;s what &#8220;,no?&#8221; translates to: &#8220;amirite?!?&#8221;
 
 Fucking Stop It.
 
-Grow some balls and make a fucking statement, or rewrite your sentence so that it&#8217;s an actual goddamn question. 
+Grow some balls and make a fucking statement, or rewrite your sentence so that it&#8217;s an actual goddamn question.
 
 &#8220;Dark Knight was a great movie.&#8221;  
 &#8220;Pizza Hut is greasy.&#8221;  

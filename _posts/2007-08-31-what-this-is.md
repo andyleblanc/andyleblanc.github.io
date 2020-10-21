@@ -8,10 +8,11 @@ guid: http://www.criticaloddness.com/blog/what-this-is/
 permalink: /2007/08/31/what-this-is/
 categories:
   - Critical Oddness
+  - ancien
 ---
-I&#8217;m not particularly good at this blogging thing. That this blog is meant to be an official blog, with real names attached to it, makes matters worse. I rarely have much to announce, and Ham and I made a pact to never allow this blog to turn into an everything/nothing chronicle of what we ate for breakfast, how we are feeling emotionally, and what song we want people to believe that we were listening to as we were typing our posts. If this were the kind of blog I used to chronicle my misbehaviours, it would be more populous. This is not to say that in my own life, by seconds and minutes, times of rowdy misbehaviour outnumber moments of gentleness and sensitivity; but rather, misbehaviour is considerably more _interesting_. 
+I&#8217;m not particularly good at this blogging thing. That this blog is meant to be an official blog, with real names attached to it, makes matters worse. I rarely have much to announce, and Ham and I made a pact to never allow this blog to turn into an everything/nothing chronicle of what we ate for breakfast, how we are feeling emotionally, and what song we want people to believe that we were listening to as we were typing our posts. If this were the kind of blog I used to chronicle my misbehaviours, it would be more populous. This is not to say that in my own life, by seconds and minutes, times of rowdy misbehaviour outnumber moments of gentleness and sensitivity; but rather, misbehaviour is considerably more _interesting_.
 
-This is also not the place for it. 
+This is also not the place for it.
 
 The trick is to write things up here that are both not personally damaging, and not phenomenally boring. I have yet to figure out how to do this frequently.
 

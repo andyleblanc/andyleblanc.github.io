@@ -1,6 +1,6 @@
 {% if site.posts.size > 0 %}
-  <ul style="list-style-type:none; margin-top:-1rem;">
-    {% for post in site.posts %}
+  <ul style="list-style-type:none;">
+    {% for post in site.categories["ancien"] %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
       </li>

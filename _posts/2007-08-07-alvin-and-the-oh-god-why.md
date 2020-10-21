@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/alvin-and-the-oh-god-why/
 permalink: /2007/08/07/alvin-and-the-oh-god-why/
 categories:
   - Critical Oddness
+  - ancien
 ---
 Andrew says:  
 [http://movies.aol.com/movie/alvin-and-the-chipmunks/28897/main  

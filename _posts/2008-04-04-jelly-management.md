@@ -8,6 +8,7 @@ guid: http://www.criticaloddness.com/blog/jelly-management/
 permalink: /2008/04/04/jelly-management/
 categories:
   - Critical Oddness
+  - ancien
 ---
 I have the kind of body type where everyone assumes that I&#8217;ve lost weight.
 
