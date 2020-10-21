@@ -1,9 +1,9 @@
-title: Andy LeBlog # name of the site
+title: andy le blog # name of the site
 author: Andy LeBlanc # name of site's author
 email: blog@andyleblanc.com # email of site's author
 url: https://andyleblanc.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  The official website of andy leblanc, a human man
+  This is a blog that I will forget to update.
 
 permalink: /:slug.html
 
@@ -16,7 +16,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed

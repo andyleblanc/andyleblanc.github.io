@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: about le blog
 permalink: /about/
 ---
@@ -33,6 +33,6 @@ A long time ago, I wrote some short stories.
 
 [Event Log](http://everydayfiction.com/event-log-by-andrew-leblanc/) – This one is just about a guy making love to a robot prostitute, from the perspective of the robot’s system log.  People didn’t like it, so I posted these pictures in the comments section, presented here as an animated gif:
 
-![kitty3](assets/kitty3.gif)
+![kitty3](/assets/images/kitty3.gif)
 
 I think they liked the picture better.

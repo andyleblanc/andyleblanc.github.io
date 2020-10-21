@@ -1,4 +1,4 @@
-<ul>
+<ul style="list-style-type:none">
   {% for item in include.collection %}
     <li>
     {% if item.url != false %}
@@ -12,7 +12,16 @@
       {% include post_list.html %}
     {% endif %}
 
-    {% if item.entries != blank %}        
+    {% if item.post_list_featured == true %}
+      {% include post_list_category.html category="featured" %}
+    {% endif %}
+
+    {% if item.post_list_projects == true %}
+      {% include post_list_category.html category="projects" %}
+    {% endif %}
+
+
+    {% if item.entries != blank %}
       {% include menu_item.html collection=item.entries %}
     {% endif %}
   {% endfor %}

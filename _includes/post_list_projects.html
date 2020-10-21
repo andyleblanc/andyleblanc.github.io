@@ -1,0 +1,9 @@
+{% if site.posts.size > 0 %}
+  <ul style="list-style-type:none">
+    {% for post in site.categories["projects"] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
