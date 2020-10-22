@@ -11,8 +11,8 @@ categories:
   - ancien
 ---
 Andrew says:  
-[http://movies.aol.com/movie/alvin-and-the-chipmunks/28897/main  
-](http://movies.aol.com/movie/alvin-and-the-chipmunks/28897/main)  
+[https://www.youtube.com/watch?v=AAvczW9skXM
+](https://www.youtube.com/watch?v=AAvczW9skXM)  
 Bigham says:  
 do&#8230; do i have to watch it in hd?
 
