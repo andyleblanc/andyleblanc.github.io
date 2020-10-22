@@ -1,6 +1,7 @@
 ---
 id: 1039
 title: Rock Video
+thumbnail: rock-logo.png
 date: 2007-12-31T13:15:13-08:00
 author: andyleblanc
 layout: post
