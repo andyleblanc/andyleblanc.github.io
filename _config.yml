@@ -3,7 +3,7 @@ author: Andy LeBlanc # name of site's author
 email: blog@andyleblanc.com # email of site's author
 url: https://andyleblanc.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This is a blog that I will forget to update.
+  the internet homepage of andy leblanc, a human man
 
 permalink: /:slug.html
 

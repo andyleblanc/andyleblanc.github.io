@@ -1,9 +1,13 @@
 {% if site.posts.size > 0 %}
   <ul style="list-style-type:none; margin-top:-1rem;">
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
-      </li>
+    {% for post in site.categories["nouveaux"] %}
+    <li>
+    {% if post.short_title %}
+    <a href="{{ post.url | relative_url }}">{{ post.short_title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
+    {% else %}
+    <a href="{{ post.url | relative_url }}">{{ post.title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
+    {% endif %}
     {% endfor %}
+    </li>
   </ul>
 {% endif %}

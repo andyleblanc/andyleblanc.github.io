@@ -17,6 +17,13 @@ entries:
     entries: false
     bodytext: false
 
+  - title: le blog
+    bodytext: this is my new blog that I will forget to update
+    url: false
+    heading: true
+    post_list: true
+    entries: false
+
   - title: le blog ancien
     bodytext: almost all of these blog posts are from a now-defunct blog I used to share with a friend of mine until he kicked me off it, the bastard
     url: false

@@ -1,9 +1,13 @@
 {% if site.posts.size > 0 %}
   <ul style="list-style-type:none;">
     {% for post in site.categories["ancien"] %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
-      </li>
+    <li>
+    {% if post.short_title %}
+    <a href="{{ post.url | relative_url }}">{{ post.short_title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
+    {% else %}
+    <a href="{{ post.url | relative_url }}">{{ post.title | downcase }} <span style="font-size:0.8rem;">{{ post.date | date: site.theme_config.date_format }}</span></a>
+    {% endif %}
     {% endfor %}
+    </li>
   </ul>
 {% endif %}
