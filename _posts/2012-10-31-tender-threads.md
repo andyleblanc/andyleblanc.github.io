@@ -21,7 +21,7 @@ I had spent the summer (barely) learning to make Muppet(tm)-style puppets, and w
 
 The team consisted of me, Steven Smethurst, Evan Valensky, Jordan Lapp, Lindsay Kessler (Steven's girlfriend at the time), Nick Robinson (since moved back to Australia), and Jennifer Woo (who had done the music for several previous Bloodshots shorts of ours, and whom I had recently started dating, and who is now my wife and pregnant with our third child (life comes at you fast))
 
-We managed to rent a small studio space next to the original location next to the Vancouver Hackspace (which itself appears on camera as Saul's Paw'n Shop)
+We managed to rent a small studio space next to the original location of the Vancouver Hackspace (which itself appears on camera as Saul's Paw'n Shop)
 
 [![Behind the Scenes!](https://img.youtube.com/vi/djSJt_Rrx1Y/0.jpg)](https://www.youtube.com/watch?v=djSJt_Rrx1Y)
 
