@@ -17,7 +17,7 @@ entries:
     entries: false
     bodytext: false
 
-  - title: le blog
+  - title: le blog nouveaux
     bodytext: this is my new blog that I will forget to update
     url: false
     heading: true
