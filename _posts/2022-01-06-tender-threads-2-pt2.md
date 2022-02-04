@@ -20,4 +20,8 @@ Afternoon became evening.  We struggled desperately with the logistical nightmar
 
 The next day, we reconvened.  Steven brought along his girlfriend Lori. Having a single additional teammate made a huge difference (the difference between success and failure, really). We ran through the new script in way less time (reshooting most of the previous day's dialogue scene as it had been restructured to be shorter and accomplish some beats that had been previously taken on by now excised scenes). All necessary footage in the can, I began editing into the night, and again in the morning.
 
+With a rough cut available, Jennifer started composing the music on the digital piano that sits in the back of our kitchen (3.25" floppy drives and broken keys and all) and started to compose the score for the short and the behind the scenes video while I watched the kids.
 
+A very sleepy day later, and I recorded the behind the scenes video alone in the garage at night (hard to nail the focus flying completely solo -- and I didn't), finished editing the behind the scenes video and final touches of the main video by morning, had Jenny review them, made adjustments, and submitted around 8am. And then I went to sleep for two hours.
+
+After that, Jenny, young James and I went to Rocky Point Park for our annual anniversary walk while I tried not to start hallucinating.
